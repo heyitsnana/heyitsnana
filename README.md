@@ -1,5 +1,5 @@
    <div align="center">
-  <h2>Oii eu sou a Kauana, estudante de Análise e Desenvolvimento de Sistemas!</h2>
+  <h2>Olá eu sou a Kauana, estudante de Análise e Desenvolvimento de Sistemas!</h2>
 
 <div align="center">
   <a href="https://github.com/heyitsnana">
